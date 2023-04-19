@@ -1,0 +1,4 @@
+name: ExpGiveHealth
+version: '${project.version}'
+main: work.baiyun.expgivehealth.ExpGiveHealth
+api-version: 1.19
